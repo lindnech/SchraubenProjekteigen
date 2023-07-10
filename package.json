@@ -1,0 +1,23 @@
+{
+  "name": "schraubenprojekt",
+  "version": "1.0.0",
+  "description": "Dieses Projekt hat das Ziel, ein interaktives Dashboard zu erstellen, das Verkaufsdaten für verschiedene Schraubenarten von verschiedenen Herstellern visualisiert. Dabei werden Chart.js zur Darstellung der Daten und Bootstrap zur Gestaltung der Benutzeroberfläche verwendet.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.3.0",
+    "cjs": "^0.0.11",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "json2xls": "^0.1.2",
+    "mongodb": "4.0",
+    "mongoose": "^7.3.2",
+    "node-fetch": "^3.3.1",
+    "pug": "^3.0.2"
+  }
+}
